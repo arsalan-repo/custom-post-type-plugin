@@ -1,0 +1,67 @@
+/*Archive Event*/
+
+.event_list img{
+    width: 100%!important;
+}
+
+.event_list .more-link{
+    display: none;
+}
+
+/*Single Event*/
+
+.event_detail h2{
+    margin-top: 0;
+}
+
+.event_detail{
+    padding: 50px 0;
+}
+
+.event_detail span{
+    color: #96001d;
+    font-size: 16px;
+}
+
+.event_detail p{
+    color: #7d7d7c;
+}
+
+.event_detail table th, .event_detail table td{
+    color: #96001d;
+    border: none;
+    background: transparent;
+}
+
+.event_detail table th{
+    width: 25%;
+}
+
+.misc_details{
+    margin: 15px 0 0 0;
+}
+
+.misc_details i{
+    background: #96001d;
+    color: #fff;
+    padding: 10px;
+    margin: 0 10px 0 0;
+    border-radius: 100%;
+}
+
+.misc_details p{
+    margin: 0;
+}
+
+.misc_details .detail{
+    display: flex;
+}
+
+.misc_details .detail_heading{
+    font-size: 10px;
+}
+
+.detail span{
+    margin: -7px 0;
+}
+
